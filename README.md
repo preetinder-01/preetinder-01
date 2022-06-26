@@ -37,8 +37,8 @@ Currently I'm learning Ethical Hacking (Web application pentesting) and practici
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=harshiilll&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiilll&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=preetinder-01&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpreetinder-01&hide=html&layout=compact&theme=highcontrast" />
  
  ![](./profile-3d-contrib/profile-gitblock.svg)
  
