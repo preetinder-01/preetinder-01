@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Preetinder Singh Bajaj%20&fontAlignY=50&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Preetinder%20Singh%20Bajaj%20&fontAlignY=50&color=gradient)
  
 
 ### :man_technologist: I'm Preetinder Singh  and I'm interested in Ethical Hacking and web development
@@ -11,12 +11,12 @@ Currently I'm learning Ethical Hacking (Web application pentesting) and practici
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
 
-[1.2]: https://s4.uupload.ir/files/whatsapp_prkb.png
+<!-- [1.2]: https://s4.uupload.ir/files/whatsapp_prkb.png -->
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/HarshillK
+<!-- [1]: https://twitter.com/HarshillK -->
 [2]: https://www.linkedin.com/in/preetinder-singh-bajaj/
 [3]: https://www.instagram.com/preetinder.0031
 [4]: http://telegram.me/preetinder01
