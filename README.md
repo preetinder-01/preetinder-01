@@ -7,7 +7,7 @@ Currently I'm learning Ethical Hacking (Web application pentesting) and practici
 <img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
 
 <br>
-<h2>Social Networks</h2>
+<h2>Social Network</h2>
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
 
