@@ -33,7 +33,7 @@ Currently I'm learning Ethical Hacking (Web application pentesting) and practici
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
-<code><img title="HTML5" height="30" src="images/html5.svg"></code>
+<code><img title="HTML5" height="30" src="images/html5.svg"></code><br>
 <code><img title="CSS" height="30" src="images/css.svg"></code>
 <code><img title="React" height="30" src="images/react-original.svg"></code>
 <code><img title="Git" height="30" src="images/git-original.svg"></code>
